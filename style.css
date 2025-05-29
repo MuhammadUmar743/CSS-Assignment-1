@@ -1,0 +1,65 @@
+.mega{
+    background-color: rgb(219, 218, 218);
+    border-bottom: 2px solid blue;
+    
+
+}
+.list{
+    background-color: blue;
+}
+.list li a{
+    color:white;
+}
+.product{
+    background-color: orange;
+}
+.search{
+    background-color:orangered;
+    border: none;
+    border-radius: 3px;
+}
+.input{
+    border: 2px solid orangered;
+}
+.tr1{
+    background-color: rgb(6, 118, 6);
+}
+.table{
+    border: 2px solid green;
+}
+.button1{
+    background-color: green;
+    color: white;
+}
+.field{
+    border-color: rgb(241, 20, 241);
+}
+.legend{
+    background-color: rgb(199, 11, 199);
+    color: white;
+}
+.comparison{
+    border: 2px solid red;
+}
+.tr22{
+    border: 2px solid black;
+
+}
+.tr222{
+    border: 2px solid black;
+    background-color: red;
+    color: white;
+
+}
+.tr2233{
+    border: 2px solid black;
+    background-color: rgb(255, 0, 0, 0.3);
+   
+
+}
+.last{
+    background-color: blue;
+}
+.last a{
+    color: beige;
+}
